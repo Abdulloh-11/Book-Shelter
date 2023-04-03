@@ -1,0 +1,32 @@
+.sub-header {
+    padding: 11px 0;
+    border-top: 1px solid rgba(227, 230, 235, 1);
+    border-bottom: 1px solid rgba(227, 230, 235, 1);
+}
+
+.sub-header__container {
+    padding-left: 350px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sub-header__btn-sort {
+    padding: 5px 13px;
+    background-color: #a6b0c3;
+    color: #fff;
+    border: none;
+}
+
+.sub-header__result {
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #222531;
+}
+
+.total-results {
+    color: coral;
+}
